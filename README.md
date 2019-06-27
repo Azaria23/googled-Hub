@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4a2f41c81636488996f9296e16d22fef)](https://app.codacy.com/app/Cloudc403/googled-Hub?utm_source=github.com&utm_medium=referral&utm_content=Azaria23/googled-Hub&utm_campaign=Badge_Grade_Dashboard)
+
 You can use the [editor on GitHub](https://github.com/Azaria23/googled-Hub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
